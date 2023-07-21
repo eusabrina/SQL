@@ -4,7 +4,7 @@
 <br>
 
 ### Query - Extrair faturamento com mês em coluna.txt
-- Essa query é utilizada para extrair as informações do faturamento em coluna. Pois pela quantidade de IDs, não seria possível colocar no Excel.
+- Essa query é utilizada para extrair as informações mensais do faturamento em coluna. Pela quantidade de IDs, não seria possível colocar no Excel, para o analista utilizar.
 <br>
 
 
