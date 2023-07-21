@@ -1,9 +1,5 @@
-# SQL
 
-
-Query - Extrair faturamento com o Mes em coluna e nível ID.txt
-#   ![POWER QUERY2](https://github.com/eusabrina/POWER-QUERY/assets/67608949/ff640339-1058-4ba6-87b2-278fa19ace99) POWER QUERY 
-
+# ![sql1](https://github.com/eusabrina/SQL/assets/67608949/7cc8f2cc-b579-4bb7-8b62-bc747326113d) SQL
 
 <br>
 
