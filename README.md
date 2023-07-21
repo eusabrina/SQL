@@ -3,7 +3,7 @@
 
 <br>
 
-### Query - Extrair faturamento com o Mes em coluna e nível ID.txt
+### Query - Extrair faturamento com mês em coluna.txt
 - Essa query é utilizada para extrair as informações do faturamento em coluna. Pois pela quantidade de IDs, não seria possível colocar no Excel.
 <br>
 
